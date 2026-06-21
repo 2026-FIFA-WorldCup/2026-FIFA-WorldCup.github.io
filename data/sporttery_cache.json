@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-06-21T21:43:04.541838+00:00",
+  "updated_at": "2026-06-21T22:13:03.724444+00:00",
   "matches": [
-    {
-      "match_id": "2040249",
-      "home_team_zh": "乌拉圭",
-      "away_team_zh": "佛得角",
-      "kickoff_time": "2026-06-21T22:00:00+00:00",
-      "match_num": "周日039",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.28,
-        "draw": 4.2,
-        "away": 9.05
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 2.04,
-        "draw": 3.35,
-        "away": 2.95
-      }
-    },
     {
       "match_id": "2040250",
       "home_team_zh": "新西兰",
