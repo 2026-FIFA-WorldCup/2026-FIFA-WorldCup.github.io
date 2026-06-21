@@ -1,0 +1,2 @@
+"""Football odds arbitrage detector."""
+

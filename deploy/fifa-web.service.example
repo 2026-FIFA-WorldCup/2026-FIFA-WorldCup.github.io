@@ -1,0 +1,20 @@
+# 复制到 /etc/systemd/system/fifa-web.service
+# sudo systemctl daemon-reload
+# sudo systemctl enable --now fifa-web
+
+[Unit]
+Description=FIFA Odds Web (Polymarket + Sporttery)
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/opt/fifa
+EnvironmentFile=/opt/fifa/.env
+ExecStart=/opt/fifa/.venv/bin/uvicorn arbitrage.web:app --host 127.0.0.1 --port 8000
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,12 @@
+apscheduler
+beautifulsoup4
+fastapi
+httpx
+loguru
+lxml
+pydantic
+python-dotenv
+rapidfuzz
+rich
+pytest
+uvicorn

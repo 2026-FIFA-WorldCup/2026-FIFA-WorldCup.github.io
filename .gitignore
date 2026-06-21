@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+logs/
+*.log
+docs/index.html
+docs/odds.json
+.DS_Store
+Thumbs.db
