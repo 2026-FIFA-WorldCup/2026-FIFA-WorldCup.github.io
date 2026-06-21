@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-06-21T15:43:04.494767+00:00",
+  "updated_at": "2026-06-21T16:13:04.602736+00:00",
   "matches": [
-    {
-      "match_id": "2040247",
-      "home_team_zh": "西班牙",
-      "away_team_zh": "沙特阿拉伯",
-      "kickoff_time": "2026-06-21T16:00:00+00:00",
-      "match_num": "周日037",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": null,
-      "hhad": {
-        "goal_line": "-2",
-        "label": "主让2球",
-        "home": 1.57,
-        "draw": 4.3,
-        "away": 3.85
-      }
-    },
     {
       "match_id": "2040248",
       "home_team_zh": "比利时",
