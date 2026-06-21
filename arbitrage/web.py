@@ -26,7 +26,7 @@ from arbitrage.fetchers.sporttery_web import (
     SportteryHandicap,
     SportteryMatch,
     SportteryThreeWay,
-    fetch_sporttery_world_cup,
+    fetch_sporttery_with_fallback,
     format_handicap_label,
 )
 from arbitrage.fetchers.utils import ensure_list, parse_datetime, parse_float, parse_matchup
@@ -199,11 +199,12 @@ async def refresh_cache() -> None:
         if settings.http_proxy:
             poly_kwargs["proxy"] = settings.http_proxy
 
+        sporttery_from_cache = False
         async with httpx.AsyncClient(**client_kwargs) as domestic_client:
             async with httpx.AsyncClient(**poly_kwargs) as poly_client:
                 poly_result, sporttery_result = await asyncio.gather(
                     fetch_polymarket_match_views(poly_client),
-                    fetch_sporttery_world_cup(domestic_client),
+                    fetch_sporttery_with_fallback(domestic_client),
                     return_exceptions=True,
                 )
 
@@ -219,7 +220,9 @@ async def refresh_cache() -> None:
             errors.append(f"体育彩票: {sporttery_result.__class__.__name__}")
             logger.warning("体育彩票抓取失败：{}", sporttery_result)
         else:
-            sporttery_matches = sporttery_result
+            sporttery_matches, sporttery_from_cache = sporttery_result
+            if sporttery_from_cache and sporttery_matches:
+                errors.append("体育彩票：使用国内缓存（海外服务器无法直连官网）")
 
         if not poly_matches and not sporttery_matches:
             cache["error"] = "; ".join(errors) or "暂无可用数据"
