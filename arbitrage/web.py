@@ -36,7 +36,6 @@ from arbitrage.models import utc_now
 REFRESH_SECONDS = int(os.getenv("WEB_REFRESH_SECONDS", "300"))
 MAX_OFFSET = int(os.getenv("POLYMARKET_WEB_MAX_OFFSET", "400"))
 WEB_WINDOW_DAYS = int(os.getenv("WEB_WINDOW_DAYS", "5"))
-CONTACT_WECHAT = os.getenv("CONTACT_WECHAT", "wuke20010216")
 
 
 TEAM_PROFILES: dict[str, tuple[str, str, str]] = {
@@ -1158,72 +1157,6 @@ def render_html(state: dict[str, Any]) -> str:
     }}
     .empty-state p {{ margin: 0 0 8px; }}
     .hint {{ font-size: 13px; }}
-    .card-footer {{
-      padding: 14px 20px 18px;
-      border-top: 1px solid var(--border);
-      background: #fafbfc;
-      text-align: center;
-    }}
-    .btn-contact {{
-      appearance: none;
-      border: 1px solid var(--primary);
-      background: var(--surface);
-      color: var(--primary);
-      border-radius: 8px;
-      padding: 9px 28px;
-      font-size: 14px;
-      font-weight: 600;
-      cursor: pointer;
-      transition: background .15s, color .15s;
-    }}
-    .btn-contact:hover {{
-      background: var(--primary);
-      color: #fff;
-    }}
-    .modal-overlay {{
-      display: none;
-      position: fixed;
-      inset: 0;
-      z-index: 1000;
-      background: rgba(15, 23, 42, .45);
-      align-items: center;
-      justify-content: center;
-      padding: 20px;
-    }}
-    .modal-overlay.open {{ display: flex; }}
-    .modal-box {{
-      background: var(--surface);
-      border-radius: 12px;
-      padding: 28px 32px;
-      max-width: 360px;
-      width: 100%;
-      text-align: center;
-      box-shadow: 0 20px 50px rgba(15, 23, 42, .18);
-      border: 1px solid var(--border);
-    }}
-    .modal-box h3 {{
-      margin: 0 0 12px;
-      font-size: 18px;
-      color: var(--text);
-    }}
-    .modal-wechat {{
-      margin: 0 0 20px;
-      font-size: 16px;
-      color: var(--primary);
-      font-weight: 700;
-      letter-spacing: .02em;
-    }}
-    .modal-close {{
-      appearance: none;
-      border: 1px solid var(--border);
-      background: var(--bg);
-      color: var(--muted);
-      border-radius: 8px;
-      padding: 8px 24px;
-      font-size: 13px;
-      cursor: pointer;
-    }}
-    .modal-close:hover {{ background: var(--border); }}
     @media (max-width: 640px) {{
       .match-head {{
         grid-template-columns: 1fr;
@@ -1258,31 +1191,11 @@ def render_html(state: dict[str, Any]) -> str:
     {error_html}
     <div class="match-list">{cards}</div>
   </main>
-  <div class="modal-overlay" id="contact-modal" role="dialog" aria-modal="true" aria-labelledby="contact-modal-title">
-    <div class="modal-box">
-      <h3 id="contact-modal-title">联系购买</h3>
-      <p class="modal-wechat">请联系微信 {html.escape(CONTACT_WECHAT)}</p>
-      <button class="modal-close" type="button" id="contact-modal-close">关闭</button>
-    </div>
-  </div>
   <script>
     const REFRESH_MS = {REFRESH_SECONDS * 1000};
     const btn = document.getElementById("refresh-btn");
     {refresh_script}
     setTimeout(() => location.reload(), REFRESH_MS);
-
-    const modal = document.getElementById("contact-modal");
-    const modalClose = document.getElementById("contact-modal-close");
-    document.querySelectorAll(".btn-contact").forEach((el) => {{
-      el.addEventListener("click", () => modal.classList.add("open"));
-    }});
-    modalClose.addEventListener("click", () => modal.classList.remove("open"));
-    modal.addEventListener("click", (e) => {{
-      if (e.target === modal) modal.classList.remove("open");
-    }});
-    document.addEventListener("keydown", (e) => {{
-      if (e.key === "Escape") modal.classList.remove("open");
-    }});
   </script>
 </body>
 </html>"""
@@ -1331,9 +1244,6 @@ def render_match_card(match: MatchView, index: int) -> str:
     {main_odds}
   </div>
   {details}
-  <div class="card-footer">
-    <button class="btn-contact" type="button">联系购买</button>
-  </div>
 </article>"""
 
 
