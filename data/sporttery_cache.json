@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-06-22T20:43:03.899826+00:00",
+  "updated_at": "2026-06-22T21:13:03.891725+00:00",
   "matches": [
-    {
-      "match_id": "2040252",
-      "home_team_zh": "法国",
-      "away_team_zh": "伊拉克",
-      "kickoff_time": "2026-06-22T21:00:00+00:00",
-      "match_num": "周一042",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": null,
-      "hhad": {
-        "goal_line": "-3",
-        "label": "主让3球",
-        "home": 2.31,
-        "draw": 4.2,
-        "away": 2.18
-      }
-    },
     {
       "match_id": "2040253",
       "home_team_zh": "挪威",
