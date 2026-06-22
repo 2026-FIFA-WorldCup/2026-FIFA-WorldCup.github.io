@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T03:13:04.363034+00:00",
+  "updated_at": "2026-06-22T03:43:06.069232+00:00",
   "matches": [
     {
       "match_id": "2040251",
@@ -9,16 +9,16 @@
       "match_num": "周一041",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 1.38,
-        "draw": 3.98,
-        "away": 6.5
+        "home": 1.36,
+        "draw": 4.05,
+        "away": 6.8
       },
       "hhad": {
         "goal_line": "-1",
         "label": "主让1球",
-        "home": 2.23,
+        "home": 2.19,
         "draw": 3.4,
-        "away": 2.59
+        "away": 2.64
       }
     },
     {
@@ -45,16 +45,16 @@
       "match_num": "周一043",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 1.95,
-        "draw": 3.3,
-        "away": 3.2
+        "home": 1.91,
+        "draw": 3.35,
+        "away": 3.26
       },
       "hhad": {
         "goal_line": "-1",
         "label": "主让1球",
-        "home": 3.88,
-        "draw": 3.82,
-        "away": 1.64
+        "home": 3.76,
+        "draw": 3.78,
+        "away": 1.67
       }
     },
     {
@@ -88,9 +88,9 @@
       "hhad": {
         "goal_line": "-2",
         "label": "主让2球",
-        "home": 2.39,
-        "draw": 3.9,
-        "away": 2.2
+        "home": 2.33,
+        "draw": 3.95,
+        "away": 2.24
       }
     },
     {
@@ -104,9 +104,9 @@
       "hhad": {
         "goal_line": "-2",
         "label": "主让2球",
-        "home": 2.49,
+        "home": 2.43,
         "draw": 3.9,
-        "away": 2.12
+        "away": 2.17
       }
     },
     {
@@ -117,16 +117,16 @@
       "match_num": "周二047",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 6.0,
+        "home": 6.38,
         "draw": 3.95,
-        "away": 1.41
+        "away": 1.39
       },
       "hhad": {
         "goal_line": "+1",
         "label": "客让1球",
-        "home": 2.42,
+        "home": 2.48,
         "draw": 3.4,
-        "away": 2.37
+        "away": 2.32
       }
     },
     {
