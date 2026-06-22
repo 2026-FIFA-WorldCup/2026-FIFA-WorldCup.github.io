@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T07:43:03.761814+00:00",
+  "updated_at": "2026-06-22T08:13:03.920981+00:00",
   "matches": [
     {
       "match_id": "2040251",
@@ -9,9 +9,9 @@
       "match_num": "周一041",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 1.32,
-        "draw": 4.17,
-        "away": 7.6
+        "home": 1.3,
+        "draw": 4.3,
+        "away": 7.85
       },
       "hhad": {
         "goal_line": "-1",
