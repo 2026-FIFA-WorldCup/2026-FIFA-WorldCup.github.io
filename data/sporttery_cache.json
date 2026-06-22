@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-06-22T16:43:03.370104+00:00",
+  "updated_at": "2026-06-22T17:13:03.428462+00:00",
   "matches": [
-    {
-      "match_id": "2040251",
-      "home_team_zh": "阿根廷",
-      "away_team_zh": "奥地利",
-      "kickoff_time": "2026-06-22T17:00:00+00:00",
-      "match_num": "周一041",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.31,
-        "draw": 4.2,
-        "away": 7.85
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 2.11,
-        "draw": 3.25,
-        "away": 2.88
-      }
-    },
     {
       "match_id": "2040252",
       "home_team_zh": "法国",
