@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-06-23T19:43:04.571946+00:00",
+  "updated_at": "2026-06-23T20:13:15.183397+00:00",
   "matches": [
-    {
-      "match_id": "2040256",
-      "home_team_zh": "英格兰",
-      "away_team_zh": "加纳",
-      "kickoff_time": "2026-06-23T20:00:00+00:00",
-      "match_num": "周二046",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": null,
-      "hhad": {
-        "goal_line": "-2",
-        "label": "主让2球",
-        "home": 2.14,
-        "draw": 3.7,
-        "away": 2.55
-      }
-    },
     {
       "match_id": "2040257",
       "home_team_zh": "巴拿马",
