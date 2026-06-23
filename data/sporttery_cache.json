@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-06-23T16:43:04.085509+00:00",
+  "updated_at": "2026-06-23T17:13:04.476453+00:00",
   "matches": [
-    {
-      "match_id": "2040255",
-      "home_team_zh": "葡萄牙",
-      "away_team_zh": "乌兹别克斯坦",
-      "kickoff_time": "2026-06-23T17:00:00+00:00",
-      "match_num": "周二045",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": null,
-      "hhad": {
-        "goal_line": "-2",
-        "label": "主让2球",
-        "home": 1.88,
-        "draw": 4.05,
-        "away": 2.85
-      }
-    },
     {
       "match_id": "2040256",
       "home_team_zh": "英格兰",
