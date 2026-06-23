@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-06-22T23:43:03.928135+00:00",
+  "updated_at": "2026-06-23T00:13:04.048871+00:00",
   "matches": [
-    {
-      "match_id": "2040253",
-      "home_team_zh": "挪威",
-      "away_team_zh": "塞内加尔",
-      "kickoff_time": "2026-06-23T00:00:00+00:00",
-      "match_num": "周一043",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.97,
-        "draw": 3.23,
-        "away": 3.2
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 3.9,
-        "draw": 3.85,
-        "away": 1.63
-      }
-    },
     {
       "match_id": "2040254",
       "home_team_zh": "约旦",
