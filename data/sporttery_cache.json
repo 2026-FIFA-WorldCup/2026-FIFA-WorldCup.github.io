@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-06-24T01:43:04.033193+00:00",
+  "updated_at": "2026-06-24T02:13:05.089890+00:00",
   "matches": [
-    {
-      "match_id": "2040258",
-      "home_team_zh": "哥伦比亚",
-      "away_team_zh": "刚果(金)",
-      "kickoff_time": "2026-06-24T02:00:00+00:00",
-      "match_num": "周二048",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.35,
-        "draw": 3.9,
-        "away": 7.6
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 2.33,
-        "draw": 3.1,
-        "away": 2.65
-      }
-    },
     {
       "match_id": "2040285",
       "home_team_zh": "瑞士",
