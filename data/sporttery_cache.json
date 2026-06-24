@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T04:43:04.476702+00:00",
+  "updated_at": "2026-06-24T05:13:03.717089+00:00",
   "matches": [
     {
       "match_id": "2040285",
@@ -9,8 +9,8 @@
       "match_num": "周三049",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 2.25,
-        "draw": 2.65,
+        "home": 2.21,
+        "draw": 2.71,
         "away": 3.25
       },
       "hhad": {
@@ -72,9 +72,9 @@
       "hhad": {
         "goal_line": "-2",
         "label": "主让2球",
-        "home": 2.25,
+        "home": 2.19,
         "draw": 3.85,
-        "away": 2.35
+        "away": 2.42
       }
     },
     {
@@ -105,16 +105,16 @@
       "match_num": "周三054",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 3.5,
-        "draw": 3.36,
-        "away": 1.83
+        "home": 3.75,
+        "draw": 3.4,
+        "away": 1.76
       },
       "hhad": {
         "goal_line": "+1",
         "label": "客让1球",
-        "home": 1.74,
-        "draw": 3.55,
-        "away": 3.66
+        "home": 1.81,
+        "draw": 3.43,
+        "away": 3.5
       }
     },
     {
