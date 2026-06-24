@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-06-24T18:43:04.757495+00:00",
+  "updated_at": "2026-06-24T19:13:04.651513+00:00",
   "matches": [
-    {
-      "match_id": "2040285",
-      "home_team_zh": "瑞士",
-      "away_team_zh": "加拿大",
-      "kickoff_time": "2026-06-24T19:00:00+00:00",
-      "match_num": "周三049",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 2.21,
-        "draw": 2.62,
-        "away": 3.4
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 4.7,
-        "draw": 3.86,
-        "away": 1.52
-      }
-    },
-    {
-      "match_id": "2040286",
-      "home_team_zh": "波黑",
-      "away_team_zh": "卡塔尔",
-      "kickoff_time": "2026-06-24T19:00:00+00:00",
-      "match_num": "周三050",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.26,
-        "draw": 5.35,
-        "away": 6.7
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 1.86,
-        "draw": 3.65,
-        "away": 3.15
-      }
-    },
     {
       "match_id": "2040287",
       "home_team_zh": "苏格兰",
