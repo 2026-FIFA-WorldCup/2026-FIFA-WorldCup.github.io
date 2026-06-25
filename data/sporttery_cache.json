@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-06-25T19:43:05.829701+00:00",
+  "updated_at": "2026-06-25T20:13:06.044140+00:00",
   "matches": [
-    {
-      "match_id": "2040291",
-      "home_team_zh": "厄瓜多尔",
-      "away_team_zh": "德国",
-      "kickoff_time": "2026-06-25T20:00:00+00:00",
-      "match_num": "周四055",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 4.85,
-        "draw": 4.7,
-        "away": 1.41
-      },
-      "hhad": {
-        "goal_line": "+1",
-        "label": "客让1球",
-        "home": 2.48,
-        "draw": 3.75,
-        "away": 2.18
-      }
-    },
-    {
-      "match_id": "2040292",
-      "home_team_zh": "库拉索",
-      "away_team_zh": "科特迪瓦",
-      "kickoff_time": "2026-06-25T20:00:00+00:00",
-      "match_num": "周四056",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": null,
-      "hhad": {
-        "goal_line": "+2",
-        "label": "客让2球",
-        "home": 2.66,
-        "draw": 3.6,
-        "away": 2.1
-      }
-    },
     {
       "match_id": "2040293",
       "home_team_zh": "突尼斯",
