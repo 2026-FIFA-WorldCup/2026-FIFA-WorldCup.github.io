@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-06-25T22:43:05.336010+00:00",
+  "updated_at": "2026-06-25T23:13:04.788321+00:00",
   "matches": [
-    {
-      "match_id": "2040293",
-      "home_team_zh": "突尼斯",
-      "away_team_zh": "荷兰",
-      "kickoff_time": "2026-06-25T23:00:00+00:00",
-      "match_num": "周四057",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": null,
-      "hhad": {
-        "goal_line": "+2",
-        "label": "客让2球",
-        "home": 3.55,
-        "draw": 4.2,
-        "away": 1.64
-      }
-    },
-    {
-      "match_id": "2040294",
-      "home_team_zh": "日本",
-      "away_team_zh": "瑞典",
-      "kickoff_time": "2026-06-25T23:00:00+00:00",
-      "match_num": "周四058",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.62,
-        "draw": 3.55,
-        "away": 4.35
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 2.95,
-        "draw": 3.5,
-        "away": 1.98
-      }
-    },
     {
       "match_id": "2040295",
       "home_team_zh": "巴拉圭",
