@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-06-26T18:43:07.187302+00:00",
+  "updated_at": "2026-06-26T19:13:07.554470+00:00",
   "matches": [
-    {
-      "match_id": "2040297",
-      "home_team_zh": "挪威",
-      "away_team_zh": "法国",
-      "kickoff_time": "2026-06-26T19:00:00+00:00",
-      "match_num": "周五061",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 4.5,
-        "draw": 4.08,
-        "away": 1.51
-      },
-      "hhad": {
-        "goal_line": "+1",
-        "label": "客让1球",
-        "home": 2.23,
-        "draw": 3.19,
-        "away": 2.72
-      }
-    },
-    {
-      "match_id": "2040298",
-      "home_team_zh": "塞内加尔",
-      "away_team_zh": "伊拉克",
-      "kickoff_time": "2026-06-26T19:00:00+00:00",
-      "match_num": "周五062",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": null,
-      "hhad": {
-        "goal_line": "-2",
-        "label": "主让2球",
-        "home": 2.37,
-        "draw": 3.75,
-        "away": 2.27
-      }
-    },
     {
       "match_id": "2040299",
       "home_team_zh": "佛得角",
