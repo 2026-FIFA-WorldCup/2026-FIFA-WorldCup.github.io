@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T02:43:05.533084+00:00",
+  "updated_at": "2026-06-26T03:13:05.485087+00:00",
   "matches": [
     {
       "match_id": "2040297",
@@ -223,6 +223,26 @@
         "home": 2.22,
         "draw": 3.85,
         "away": 2.39
+      }
+    },
+    {
+      "match_id": "2040327",
+      "home_team_zh": "南非",
+      "away_team_zh": "加拿大",
+      "kickoff_time": "2026-06-28T19:00:00+00:00",
+      "match_num": "周日073",
+      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
+      "had": {
+        "home": 4.7,
+        "draw": 3.18,
+        "away": 1.66
+      },
+      "hhad": {
+        "goal_line": "+1",
+        "label": "客让1球",
+        "home": 1.95,
+        "draw": 3.3,
+        "away": 3.2
       }
     }
   ]
