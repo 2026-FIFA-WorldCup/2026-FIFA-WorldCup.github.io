@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-06-27T23:13:04.468768+00:00",
+  "updated_at": "2026-06-27T23:43:04.598569+00:00",
   "matches": [
-    {
-      "match_id": "2040305",
-      "home_team_zh": "哥伦比亚",
-      "away_team_zh": "葡萄牙",
-      "kickoff_time": "2026-06-27T23:30:00+00:00",
-      "match_num": "周六069",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 3.6,
-        "draw": 3.7,
-        "away": 1.72
-      },
-      "hhad": {
-        "goal_line": "+1",
-        "label": "客让1球",
-        "home": 1.89,
-        "draw": 3.55,
-        "away": 3.14
-      }
-    },
-    {
-      "match_id": "2040306",
-      "home_team_zh": "刚果(金)",
-      "away_team_zh": "乌兹别克斯坦",
-      "kickoff_time": "2026-06-27T23:30:00+00:00",
-      "match_num": "周六070",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.45,
-        "draw": 4.05,
-        "away": 5.2
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 2.64,
-        "draw": 3.13,
-        "away": 2.32
-      }
-    },
     {
       "match_id": "2040307",
       "home_team_zh": "阿尔及利亚",
