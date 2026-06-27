@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-06-27T20:43:04.499920+00:00",
+  "updated_at": "2026-06-27T21:13:04.567404+00:00",
   "matches": [
-    {
-      "match_id": "2040303",
-      "home_team_zh": "克罗地亚",
-      "away_team_zh": "加纳",
-      "kickoff_time": "2026-06-27T21:00:00+00:00",
-      "match_num": "周六067",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.69,
-        "draw": 3.0,
-        "away": 4.9
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 3.63,
-        "draw": 3.0,
-        "away": 1.92
-      }
-    },
-    {
-      "match_id": "2040304",
-      "home_team_zh": "巴拿马",
-      "away_team_zh": "英格兰",
-      "kickoff_time": "2026-06-27T21:00:00+00:00",
-      "match_num": "周六068",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": null,
-      "hhad": {
-        "goal_line": "+2",
-        "label": "客让2球",
-        "home": 2.85,
-        "draw": 4.1,
-        "away": 1.87
-      }
-    },
     {
       "match_id": "2040305",
       "home_team_zh": "哥伦比亚",
