@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-06-28T01:43:05.473379+00:00",
+  "updated_at": "2026-06-28T02:13:04.480157+00:00",
   "matches": [
-    {
-      "match_id": "2040307",
-      "home_team_zh": "阿尔及利亚",
-      "away_team_zh": "奥地利",
-      "kickoff_time": "2026-06-28T02:00:00+00:00",
-      "match_num": "周六071",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 3.9,
-        "draw": 1.94,
-        "away": 2.8
-      },
-      "hhad": {
-        "goal_line": "+1",
-        "label": "客让1球",
-        "home": 1.32,
-        "draw": 4.35,
-        "away": 7.05
-      }
-    },
-    {
-      "match_id": "2040308",
-      "home_team_zh": "约旦",
-      "away_team_zh": "阿根廷",
-      "kickoff_time": "2026-06-28T02:00:00+00:00",
-      "match_num": "周六072",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": null,
-      "hhad": {
-        "goal_line": "+2",
-        "label": "客让2球",
-        "home": 2.7,
-        "draw": 3.9,
-        "away": 1.99
-      }
-    },
     {
       "match_id": "2040327",
       "home_team_zh": "南非",
