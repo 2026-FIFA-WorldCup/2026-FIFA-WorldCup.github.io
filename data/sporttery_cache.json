@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T10:43:06.365289+00:00",
+  "updated_at": "2026-06-29T11:13:05.515473+00:00",
   "matches": [
     {
       "match_id": "2040337",
@@ -9,16 +9,16 @@
       "match_num": "周一074",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 1.49,
-        "draw": 3.72,
-        "away": 5.28
+        "home": 1.51,
+        "draw": 3.66,
+        "away": 5.15
       },
       "hhad": {
         "goal_line": "-1",
         "label": "主让1球",
-        "home": 2.74,
+        "home": 2.8,
         "draw": 3.11,
-        "away": 2.26
+        "away": 2.22
       }
     },
     {
@@ -50,8 +50,8 @@
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
         "home": 2.0,
-        "draw": 2.98,
-        "away": 3.4
+        "draw": 2.92,
+        "away": 3.48
       },
       "hhad": {
         "goal_line": "-1",
