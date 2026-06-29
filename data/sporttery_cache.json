@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-06-29T20:13:05.530116+00:00",
+  "updated_at": "2026-06-29T20:43:05.831616+00:00",
   "matches": [
-    {
-      "match_id": "2040344",
-      "home_team_zh": "德国",
-      "away_team_zh": "巴拉圭",
-      "kickoff_time": "2026-06-29T20:30:00+00:00",
-      "match_num": "周一075",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.22,
-        "draw": 5.0,
-        "away": 9.1
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 1.69,
-        "draw": 4.05,
-        "away": 3.44
-      }
-    },
     {
       "match_id": "2040338",
       "home_team_zh": "荷兰",
