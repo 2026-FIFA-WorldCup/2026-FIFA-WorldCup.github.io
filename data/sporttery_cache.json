@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T02:43:07.410749+00:00",
+  "updated_at": "2026-06-30T03:13:05.776785+00:00",
   "matches": [
     {
       "match_id": "2040345",
@@ -9,16 +9,16 @@
       "match_num": "周二077",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 3.68,
-        "draw": 3.38,
-        "away": 1.78
+        "home": 3.55,
+        "draw": 3.35,
+        "away": 1.82
       },
       "hhad": {
         "goal_line": "+1",
         "label": "客让1球",
-        "home": 1.82,
-        "draw": 3.63,
-        "away": 3.28
+        "home": 1.78,
+        "draw": 3.65,
+        "away": 3.4
       }
     },
     {
@@ -49,16 +49,16 @@
       "match_num": "周二079",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 2.0,
+        "home": 1.97,
         "draw": 2.7,
-        "away": 3.86
+        "away": 3.98
       },
       "hhad": {
         "goal_line": "-1",
         "label": "主让1球",
         "home": 4.5,
-        "draw": 3.4,
-        "away": 1.63
+        "draw": 3.32,
+        "away": 1.65
       }
     },
     {
@@ -119,6 +119,66 @@
         "home": 1.93,
         "draw": 3.5,
         "away": 3.08
+      }
+    },
+    {
+      "match_id": "2040354",
+      "home_team_zh": "西班牙",
+      "away_team_zh": "奥地利",
+      "kickoff_time": "2026-07-02T19:00:00+00:00",
+      "match_num": "周四083",
+      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
+      "had": {
+        "home": 1.26,
+        "draw": 4.5,
+        "away": 8.8
+      },
+      "hhad": {
+        "goal_line": "-1",
+        "label": "主让1球",
+        "home": 1.95,
+        "draw": 3.5,
+        "away": 3.02
+      }
+    },
+    {
+      "match_id": "2040355",
+      "home_team_zh": "葡萄牙",
+      "away_team_zh": "克罗地亚",
+      "kickoff_time": "2026-07-02T23:00:00+00:00",
+      "match_num": "周四084",
+      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
+      "had": {
+        "home": 1.59,
+        "draw": 3.4,
+        "away": 4.85
+      },
+      "hhad": {
+        "goal_line": "-1",
+        "label": "主让1球",
+        "home": 2.99,
+        "draw": 3.25,
+        "away": 2.05
+      }
+    },
+    {
+      "match_id": "2040356",
+      "home_team_zh": "瑞士",
+      "away_team_zh": "阿尔及利亚",
+      "kickoff_time": "2026-07-03T03:00:00+00:00",
+      "match_num": "周四085",
+      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
+      "had": {
+        "home": 1.85,
+        "draw": 3.0,
+        "away": 3.92
+      },
+      "hhad": {
+        "goal_line": "-1",
+        "label": "主让1球",
+        "home": 3.9,
+        "draw": 3.35,
+        "away": 1.74
       }
     }
   ]
