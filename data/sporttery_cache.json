@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-07-03T02:43:04.724834+00:00",
+  "updated_at": "2026-07-03T03:13:04.969296+00:00",
   "matches": [
-    {
-      "match_id": "2040356",
-      "home_team_zh": "瑞士",
-      "away_team_zh": "阿尔及利亚",
-      "kickoff_time": "2026-07-03T03:00:00+00:00",
-      "match_num": "周四085",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.74,
-        "draw": 3.16,
-        "away": 4.2
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 3.75,
-        "draw": 3.08,
-        "away": 1.86
-      }
-    },
     {
       "match_id": "2040347",
       "home_team_zh": "澳大利亚",
@@ -111,6 +91,46 @@
         "home": 2.28,
         "draw": 3.75,
         "away": 2.36
+      }
+    },
+    {
+      "match_id": "2040374",
+      "home_team_zh": "巴西",
+      "away_team_zh": "挪威",
+      "kickoff_time": "2026-07-05T20:00:00+00:00",
+      "match_num": "周日091",
+      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
+      "had": {
+        "home": 1.73,
+        "draw": 3.4,
+        "away": 3.9
+      },
+      "hhad": {
+        "goal_line": "-1",
+        "label": "主让1球",
+        "home": 3.35,
+        "draw": 3.45,
+        "away": 1.85
+      }
+    },
+    {
+      "match_id": "2040394",
+      "home_team_zh": "墨西哥",
+      "away_team_zh": "英格兰",
+      "kickoff_time": "2026-07-06T00:00:00+00:00",
+      "match_num": "周日092",
+      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
+      "had": {
+        "home": 3.28,
+        "draw": 2.8,
+        "away": 2.14
+      },
+      "hhad": {
+        "goal_line": "+1",
+        "label": "客让1球",
+        "home": 1.55,
+        "draw": 3.5,
+        "away": 5.05
       }
     }
   ]
