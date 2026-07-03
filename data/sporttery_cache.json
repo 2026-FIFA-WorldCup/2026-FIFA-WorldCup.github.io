@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-07-03T21:43:04.787163+00:00",
+  "updated_at": "2026-07-03T22:13:04.730521+00:00",
   "matches": [
-    {
-      "match_id": "2040348",
-      "home_team_zh": "阿根廷",
-      "away_team_zh": "佛得角",
-      "kickoff_time": "2026-07-03T22:00:00+00:00",
-      "match_num": "周五087",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": null,
-      "hhad": {
-        "goal_line": "-2",
-        "label": "主让2球",
-        "home": 2.03,
-        "draw": 3.45,
-        "away": 2.88
-      }
-    },
     {
       "match_id": "2040357",
       "home_team_zh": "哥伦比亚",
