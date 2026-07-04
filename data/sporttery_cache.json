@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-07-04T16:43:03.605327+00:00",
+  "updated_at": "2026-07-04T17:13:03.531172+00:00",
   "matches": [
-    {
-      "match_id": "2040359",
-      "home_team_zh": "加拿大",
-      "away_team_zh": "摩洛哥",
-      "kickoff_time": "2026-07-04T17:00:00+00:00",
-      "match_num": "周六089",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 5.78,
-        "draw": 3.62,
-        "away": 1.47
-      },
-      "hhad": {
-        "goal_line": "+1",
-        "label": "客让1球",
-        "home": 2.25,
-        "draw": 2.8,
-        "away": 3.05
-      }
-    },
     {
       "match_id": "2040373",
       "home_team_zh": "巴拉圭",
