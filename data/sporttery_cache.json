@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T02:43:04.626935+00:00",
+  "updated_at": "2026-07-04T03:13:03.741880+00:00",
   "matches": [
     {
       "match_id": "2040359",
@@ -9,16 +9,16 @@
       "match_num": "周六089",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 5.05,
-        "draw": 3.35,
-        "away": 1.58
+        "home": 4.83,
+        "draw": 3.36,
+        "away": 1.6
       },
       "hhad": {
         "goal_line": "+1",
         "label": "客让1球",
         "home": 2.04,
-        "draw": 3.07,
-        "away": 3.19
+        "draw": 3.02,
+        "away": 3.25
       }
     },
     {
@@ -65,15 +65,55 @@
       "match_num": "周日092",
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
-        "home": 3.28,
-        "draw": 2.87,
-        "away": 2.1
+        "home": 3.3,
+        "draw": 2.95,
+        "away": 2.05
       },
       "hhad": {
         "goal_line": "+1",
         "label": "客让1球",
         "home": 1.57,
         "draw": 3.45,
+        "away": 4.95
+      }
+    },
+    {
+      "match_id": "2040416",
+      "home_team_zh": "葡萄牙",
+      "away_team_zh": "西班牙",
+      "kickoff_time": "2026-07-06T19:00:00+00:00",
+      "match_num": "周一093",
+      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
+      "had": {
+        "home": 3.48,
+        "draw": 3.22,
+        "away": 1.88
+      },
+      "hhad": {
+        "goal_line": "+1",
+        "label": "客让1球",
+        "home": 1.72,
+        "draw": 3.7,
+        "away": 3.6
+      }
+    },
+    {
+      "match_id": "2040395",
+      "home_team_zh": "美国",
+      "away_team_zh": "比利时",
+      "kickoff_time": "2026-07-07T00:00:00+00:00",
+      "match_num": "周一094",
+      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
+      "had": {
+        "home": 2.56,
+        "draw": 3.22,
+        "away": 2.34
+      },
+      "hhad": {
+        "goal_line": "+1",
+        "label": "客让1球",
+        "home": 1.44,
+        "draw": 4.3,
         "away": 4.95
       }
     }
