@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T11:13:04.916876+00:00",
+  "updated_at": "2026-07-05T11:43:06.099783+00:00",
   "matches": [
     {
       "match_id": "2040374",
@@ -30,15 +30,15 @@
       "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
       "had": {
         "home": 3.22,
-        "draw": 2.96,
-        "away": 2.08
+        "draw": 2.9,
+        "away": 2.11
       },
       "hhad": {
         "goal_line": "+1",
         "label": "客让1球",
-        "home": 1.58,
-        "draw": 3.33,
-        "away": 5.1
+        "home": 1.57,
+        "draw": 3.35,
+        "away": 5.15
       }
     },
     {
