@@ -1,26 +1,6 @@
 {
-  "updated_at": "2026-07-07T15:43:06.565046+00:00",
+  "updated_at": "2026-07-07T16:13:05.766215+00:00",
   "matches": [
-    {
-      "match_id": "2040427",
-      "home_team_zh": "阿根廷",
-      "away_team_zh": "埃及",
-      "kickoff_time": "2026-07-07T16:00:00+00:00",
-      "match_num": "周二095",
-      "source_url": "https://m.sporttery.cn/mjc/jsq/zqspf/",
-      "had": {
-        "home": 1.2,
-        "draw": 4.9,
-        "away": 11.0
-      },
-      "hhad": {
-        "goal_line": "-1",
-        "label": "主让1球",
-        "home": 1.74,
-        "draw": 3.7,
-        "away": 3.52
-      }
-    },
     {
       "match_id": "2040428",
       "home_team_zh": "瑞士",
